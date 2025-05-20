@@ -139,7 +139,7 @@ Edit
 Projet piloté par **Moamen Elmasry**, dans un contexte de refonte post-départ CTO.  
 Architecture reconstruite avec une approche IA-first, en développement assisté par LLMs.
 
-📫 **Contact** : moamen[at]yvea.fr  
+📫 **Contact** : elmasrymoamen@hotmail.fr  
 📅 **Calendly** : [https://calendly.com/elmasrymoamen/30min](https://calendly.com/elmasrymoamen/30min)
 
 ---
